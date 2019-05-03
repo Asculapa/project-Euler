@@ -2,8 +2,8 @@
 
 
 def get_set(number):
-    five = set(range(0, number, 3))
-    three = set(range(0, number, 5))
+    five = set(range(0, number, 5))
+    three = set(range(0, number, 3))
     return five.union(three)
 
 
