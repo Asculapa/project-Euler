@@ -8,3 +8,6 @@ def get_sum(number):
 
 
 print(sum(get_sum(1000)))
+
+# get_sum(10) = 23
+# get_sum(1000) = 233168
